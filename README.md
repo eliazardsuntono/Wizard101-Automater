@@ -6,10 +6,11 @@
 ```
 https://www.python.org/downloads/
 ```
+## To clone repository:
+```
+https://github.com/eliazardsuntono/Wizard101-Automater.git
+```
 ## To Use:
-```
-git clone https://github.com/eliazardsuntono/Wizard101-Automater.git
-```
 ```
 python3 wizard.py
 ```
